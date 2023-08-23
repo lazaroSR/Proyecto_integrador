@@ -1,4 +1,3 @@
-# Proyecto_integrador parte 1
-# Crear el archivo main del proyecto
-# Pedir el nombre del jugador por teclado
-# Imprimir un mensaje de bienvenida con el nombre
+# Proyecto_integrador
+en el presente proyecto se procedera a desarrollar un juego de laberinto, 
+para desarrollar la practica de los temas tratados durante el curso de python
