@@ -5,7 +5,7 @@ print(f"Hola {nombre_del_jugador}, inicias un nuevo reto")
 # parte numero 2 - proyecto integrador 
 import keyboard as kb
 
-n = int(input("Ingresa un numero: "))
+n = int(input("Ingresa un numero POSITIVO: "))
 print("Comienza un bucle infinito, detenlo presionando la flecha hacia arriba")
 
 while n > 0:
